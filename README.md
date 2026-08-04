@@ -24,7 +24,7 @@ struct Krishay {
     let role       = ["iOS Developer", "Full-Stack Web Dev"]
     let university = "SRM Institute of Science & Technology"
     let year       = 2027
-    let cgpa       = 8.28
+    let cgpa       = 8.38
     let city       = "Chennai, India 🇮🇳"
     let cloud      = ["AWS Cloud Practitioner ✅", "AWS AI Practitioner ✅"]
     let contact    = "kg3636@srmist.edu.in"
