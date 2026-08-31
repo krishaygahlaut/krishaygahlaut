@@ -1,262 +1,303 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Krishay%20Gahlaut&fontSize=52&fontColor=fff&animation=twinkling&fontAlignY=36&desc=Data%20%26%20Business%20Analyst%20%7C%20Software%20Engineer%20%7C%20AI-Augmented%20Builder&descAlignY=58&descSize=15" width="100%"/>
-</div>
 
-<div align="center">
-  <a href="https://linkedin.com/in/krishaygahlaut"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="mailto:kg3636@srmist.edu.in"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="https://krishaygahlaut.vercel.app"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/></a>
-  <img src="https://komarev.com/ghpvc/?username=krishaygahlaut&label=Profile+Views&color=0e75b6&style=for-the-badge"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF0080,50:7928CA,100:00D4FF&height=220&section=header&text=KRISHAY%20GAHLAUT&fontSize=60&fontColor=fff&animation=twinkling&fontAlignY=38&desc=Data%20%2F%20Business%20Analyst%20%C2%B7%20Software%20Engineer%20%C2%B7%20Builds%20with%20AI&descAlignY=58&descSize=17&fontAlign=50" width="100%"/>
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=2500&pause=800&color=00D4FF&center=true&vCenter=true&multiline=true&repeat=true&width=800&height=100&lines=%3E+finding+%2485K%2Fyear+hiding+in+churn+data;%3E+shipping+full-stack+like+it%27s+nothing;%3E+claude+code+%2B+gpt+%3D+velocity;%3E+data.decisions.impact()" />
+
+<br/>
+
+<a href="https://linkedin.com/in/krishaygahlaut"><img src="https://img.shields.io/badge/LINKEDIN-connect-FF0080?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=000000"/></a>
+<a href="mailto:kg3636@srmist.edu.in"><img src="https://img.shields.io/badge/EMAIL-message-7928CA?style=for-the-badge&logo=gmail&logoColor=white&labelColor=000000"/></a>
+<a href="https://krishaygahlaut.vercel.app"><img src="https://img.shields.io/badge/PORTFOLIO-explore-00D4FF?style=for-the-badge&logo=vercel&logoColor=white&labelColor=000000"/></a>
+
+<img src="https://komarev.com/ghpvc/?username=krishaygahlaut&label=TRANSMISSIONS+RECEIVED&color=000000&style=for-the-badge&labelColor=FF0080"/>
+
 </div>
 
 <br/>
 
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&pause=1200&color=58A6FF&center=true&vCenter=true&width=650&lines=Data+Analyst+%7C+Business+Analyst+%7C+SWE;Turning+messy+data+into+decisions+%26+%24%24%24;AWS+Cloud+%26+AI+Practitioner+%E2%9C%85;Building+with+AI+as+a+force+multiplier."/>
-</div>
-
----
-
-## 🧑‍💻 About Me
-
-```python
-class Krishay:
-    def __init__(self):
-        self.roles       = ["Data Analyst", "Business Analyst", "Software Engineer"]
-        self.university  = "SRM Institute of Science & Technology"
-        self.grad_year   = 2027
-        self.cgpa        = 8.38
-        self.location    = "Chennai, India 🇮🇳"
-        self.certs       = ["AWS Certified Cloud Practitioner ✅", "AWS Certified AI Practitioner ✅"]
-        self.internship  = "Data Analyst @ AltiusTech Health"
-        self.ai_stack    = ["Claude Code", "ChatGPT/GPT"]
-        self.contact     = "kg3636@srmist.edu.in"
-
-    def what_i_do(self):
-        return "Find the story in the data, then build the system that acts on it."
+```ansi
+┌──────────────────────────────────────────────────────────────────┐
+│  root@krishay:~$ whoami                                          │
+│  → Data Analyst | Business Analyst | Software Engineer           │
+│  → SRM IST '27 · CGPA 8.38 · Chennai, India                      │
+│  → AWS Certified: Cloud Practitioner + AI Practitioner            │
+│  → Currently: Data Analyst @ AltiusTech Health                   │
+│  → Weapon of choice: Claude Code + GPT (I build FAST)             │
+└──────────────────────────────────────────────────────────────────┘
 ```
 
-- 📊 Data Analyst intern @ **AltiusTech Health** — real-world experience turning healthcare data into decisions
-- 📈 Built pipelines and models that surface concrete business impact (not just accuracy scores)
-- 🖥️ Full-stack engineer who ships end-to-end — from PostgreSQL/Redis backends to React frontends
-- ☁️ Dual AWS Certified — Cloud Practitioner + AI Practitioner
-- 🤝 Comfortable in both technical deep-dives and stakeholder-facing analysis/communication
-- 🤖 Builds *with* AI — Claude Code and GPT are part of my daily workflow, not a gimmick
+<br/>
 
----
+<div align="center">
 
-## 🤖 How I Work: AI-Augmented Development
+## ⚡ SIGNAL // NOT NOISE
 
-I treat AI tooling as leverage, not a crutch — it's how I ship more, faster, without cutting corners on quality.
+</div>
 
-| Tool | How I use it |
-|---|---|
-| **Claude Code** | Scaffolding full-stack features, refactoring, debugging distributed systems (Redis/Prisma/Docker), writing test coverage |
-| **GPT** | Fast iteration on data analysis logic, exploratory SQL/Python, drafting documentation and reports |
-| **AWS AI Practitioner cert** | Formal grounding in applied ML/AI concepts, not just tool usage |
-
-This shows up directly in project velocity — e.g. going from a raw churn dataset to a validated ROC-AUC 0.844 model, or from a buildathon brief to a working, auditable AI agent in days, not weeks.
-
----
-
-## 📊 Data & Business Analytics Work
+I don't just make charts — I find the number that changes a decision. Every project below ends in an outcome, not just a metric.
 
 <table>
-  <tr>
-    <td width="50%" valign="top">
-      <h3>💰 Revenue Intelligence Pipeline</h3>
-      <p>End-to-end analytics pipeline identifying an <b>$85K/year recovery opportunity</b> via RFM segmentation and K-Means clustering, visualized in Power BI for stakeholder decision-making.</p>
-      <p><img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white"/> <img src="https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black"/> <img src="https://img.shields.io/badge/RFM_%2F_KMeans-6DB33F?style=flat-square"/></p>
-    </td>
-    <td width="50%" valign="top">
-      <h3>📉 Telecom Churn Analysis</h3>
-      <p>Predictive churn model on the IBM Telco dataset using Logistic Regression and Gradient Boosting, reaching <b>ROC-AUC 0.844</b> with actionable churn-driver findings for retention strategy.</p>
-      <p><img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/> <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white"/> <img src="https://img.shields.io/badge/Gradient_Boosting-orange?style=flat-square"/></p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h3>💳 Adaptive Recovery — Razorpay AI Builder Buildathon</h3>
-      <p>End-to-end AI agent replacing fixed retry schedules with a personalized, auditable decision loop for payment recovery — a <b>~5 percentage point lift</b> in recovery at the same retry budget.</p>
-      <p><img src="https://img.shields.io/badge/AI_Agents-412991?style=flat-square&logo=openai&logoColor=white"/> <img src="https://img.shields.io/badge/FinTech-00D4AA?style=flat-square"/> <img src="https://img.shields.io/badge/Decisioning-6DB33F?style=flat-square"/></p>
-    </td>
-    <td width="50%" valign="top">
-      <h3>🌾 AgriSense</h3>
-      <p>AI-driven crop yield prediction system using XGBoost, backed by a full B.Tech project report — from raw agricultural data to a deployed prediction model.</p>
-      <p><img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white"/> <img src="https://img.shields.io/badge/XGBoost-EB5E28?style=flat-square"/> <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white"/></p>
-    </td>
-  </tr>
+<tr>
+<td width="33%" align="center">
+
+### 💰
+**$85K/yr**
+recovery opportunity surfaced via RFM + K-Means segmentation
+
+</td>
+<td width="33%" align="center">
+
+### 📉
+**0.844**
+ROC-AUC predicting telecom churn before it happens
+
+</td>
+<td width="33%" align="center">
+
+### 🔁
+**+5pp**
+payment recovery lift from an AI decisioning agent
+
+</td>
+</tr>
 </table>
 
 ---
 
-## 🚀 Software Engineering Work
+<div align="center">
+
+## 🧠 AI IS PART OF MY STACK, NOT A PARTY TRICK
+
+</div>
 
 <table>
-  <tr>
-    <td width="50%" valign="top">
-      <h3>⚙️ Job Scheduler</h3>
-      <p>Distributed job scheduling system built as a real internship-style technical assessment — queueing, retries, and persistence handled cleanly across the stack.</p>
-      <p><img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white"/> <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white"/> <img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white"/> <img src="https://img.shields.io/badge/Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white"/> <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white"/></p>
-    </td>
-    <td width="50%" valign="top">
-      <h3>📚 StudyFlow Pro v2.0</h3>
-      <p>SaaS-style student productivity platform with three role-based dashboards (Student, Faculty, Admin) — full MERN stack, deployed on Vercel/Render with MongoDB Atlas.</p>
-      <p><img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white"/> <img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white"/> <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black"/> <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white"/></p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h3>📇 XenoCRM</h3>
-      <p>Full-stack CRM with AI-powered customer segmentation and campaign management — built for real marketing/ops decision-making, not just a CRUD demo.</p>
-      <p><img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white"/> <img src="https://img.shields.io/badge/AI_APIs-412991?style=flat-square&logo=openai&logoColor=white"/></p>
-    </td>
-    <td width="50%" valign="top">
-      <h3>🎯 HuntAI</h3>
-      <p>Automated job-hunting and cold-email application system with a React/Node.js frontend and a node-cron scheduler — built to solve my own outreach problem at scale.</p>
-      <p><img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black"/> <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white"/> <img src="https://img.shields.io/badge/Automation-FF6B6B?style=flat-square"/></p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h3>👥 EmpDesk</h3>
-      <p>Full-stack employee management system with role-based access and selfie-verified attendance — real CRUD, real auth, real ops logic.</p>
-      <p><img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black"/> <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white"/> <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white"/></p>
-      <a href="https://github.com/krishaygahlaut/emp-system">→ View Repo</a>
-    </td>
-    <td width="50%" valign="top">
-      <h3>🏦 Moneyplant</h3>
-      <p>Loan and investment platform — React frontend backed by a Java Spring Boot backend, covering real financial workflows end to end.</p>
-      <p><img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black"/> <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white"/> <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white"/></p>
-    </td>
-  </tr>
+<tr>
+<td width="50%">
+
+**Claude Code**
+Scaffolds full-stack features, refactors distributed systems (Redis/Prisma/Docker), writes the tests I'd otherwise skip.
+
+</td>
+<td width="50%">
+
+**GPT**
+Fast-iterates data logic, exploratory SQL/Python, turns raw findings into reports stakeholders actually read.
+
+</td>
+</tr>
+</table>
+
+<div align="center">
+<i>Result: a churn model validated in days, an AI recovery agent built for a live buildathon in under a week.</i>
+</div>
+
+---
+
+<div align="center">
+
+## 📊 DATA & BUSINESS IMPACT
+
+</div>
+
+<table>
+<tr><td width="50%" valign="top">
+
+**💰 Revenue Intelligence Pipeline**
+PostgreSQL → RFM/K-Means → Power BI.
+**Found:** $85K/year recovery opportunity.
+`PostgreSQL` `Power BI` `Clustering`
+
+</td><td width="50%" valign="top">
+
+**📉 Telecom Churn Analysis**
+Logistic Regression + Gradient Boosting on IBM Telco data.
+**Result:** ROC-AUC 0.844, actionable churn drivers.
+`Python` `scikit-learn`
+
+</td></tr>
+<tr><td width="50%" valign="top">
+
+**💳 Adaptive Recovery** — Razorpay AI Builder Buildathon
+Replaced fixed retry logic with a personalized, auditable AI decision loop.
+**Result:** ~5pp recovery lift, same budget.
+`AI Agents` `FinTech`
+
+</td><td width="50%" valign="top">
+
+**🌾 AgriSense**
+Crop yield prediction with XGBoost, full B.Tech project report.
+**Result:** deployed prediction model, documented end to end.
+`Flask` `XGBoost`
+
+</td></tr>
+</table>
+
+---
+
+<div align="center">
+
+## 🚀 SOFTWARE I'VE SHIPPED
+
+</div>
+
+<table>
+<tr><td width="50%" valign="top">
+
+**⚙️ Job Scheduler**
+Distributed system: queueing, retries, persistence.
+`Express` `TypeScript` `Redis` `Prisma` `Docker`
+
+</td><td width="50%" valign="top">
+
+**📚 StudyFlow Pro v2.0**
+SaaS platform, 3 role-based dashboards (Student/Faculty/Admin).
+`MERN` `Vercel` `MongoDB Atlas`
+
+</td></tr>
+<tr><td width="50%" valign="top">
+
+**📇 XenoCRM**
+AI-powered customer segmentation + campaign tooling.
+`Next.js` `AI APIs`
+
+</td><td width="50%" valign="top">
+
+**🎯 HuntAI**
+Automated cold-email job application system, cron-scheduled.
+`React` `Node.js` `node-cron`
+
+</td></tr>
+<tr><td width="50%" valign="top">
+
+**👥 EmpDesk**
+Role-based access, selfie-verified attendance.
+`React` `Node.js` `MongoDB`
+[→ repo](https://github.com/krishaygahlaut/emp-system)
+
+</td><td width="50%" valign="top">
+
+**🏦 Moneyplant**
+Loan and investment platform, full stack.
+`React` `Spring Boot` `Java`
+
+</td></tr>
 </table>
 
 <details>
-<summary>🕰️ Earlier work (iOS apps, embedded systems)</summary>
+<summary><b>🕰️ ARCHIVE // early builds (iOS, embedded)</b></summary>
 <br/>
 
-- 💸 **BillBuster** — SwiftUI group expense splitter with CoreData persistence — [Repo](https://github.com/krishaygahlaut/BillBuster)
-- 🍽️ **FitFuel** — Offline-first SwiftUI meal logger, MVVM + PhotosUI — [Repo](https://github.com/krishaygahlaut/FitFuel)
-- 🌦️ **Weatherly** — SwiftUI weather app with CoreLocation + live REST data — [Repo](https://github.com/krishaygahlaut/Weatherly)
-- 🤖 **Line Following Robot** — Autonomous 4-wheel robot, IR sensors + L298N motor driver, embedded C
+- 💸 **BillBuster** — SwiftUI expense splitter, CoreData — [repo](https://github.com/krishaygahlaut/BillBuster)
+- 🍽️ **FitFuel** — offline-first meal logger, MVVM + PhotosUI — [repo](https://github.com/krishaygahlaut/FitFuel)
+- 🌦️ **Weatherly** — SwiftUI + CoreLocation weather app — [repo](https://github.com/krishaygahlaut/Weatherly)
+- 🤖 **Line Following Robot** — autonomous embedded control, IR sensors + L298N
 
 </details>
 
 ---
 
-## 💼 Why I'm a Strong Fit Beyond Pure Tech Roles
+<div align="center">
 
-Not every role needs a backend engineer — a lot of them need someone who can read a dataset, understand the business question behind it, and communicate the answer clearly. That's the throughline across my work:
+## 💼 BEYOND THE CODE
 
-- 📈 **Business impact over vanity metrics** — every analytics project ties back to a dollar figure or a decision (e.g. the $85K/year recovery opportunity, the ~5pp recovery lift)
-- 🗣️ **Stakeholder-ready communication** — dashboards (Power BI), reports (B.Tech project write-ups), and documentation built for non-technical audiences, not just engineers
-- 🏥 **Real industry exposure** — hands-on Data Analyst internship at a healthcare company, not just coursework
-- 🧩 **Cross-functional range** — equally comfortable scoping a CRM's segmentation logic, writing SQL for churn analysis, or shipping the full product around it
+*Not every seat at the table needs an engineer — some need someone who can read the data, get the business question right, and explain it clearly.*
+
+</div>
+
+| | |
+|---|---|
+| 🏥 | **Real industry reps** — hands-on Data Analyst internship at a healthcare company, not just coursework |
+| 📊 | **Built for humans, not just machines** — dashboards and reports designed for non-technical stakeholders |
+| 🧩 | **Full range** — scope a CRM's segmentation logic *or* ship the product around it |
+| 📈 | **Outcome-first** — every project here ties to a number a business would actually care about |
 
 ---
 
-## ⚡ Tech Stack
+<div align="center">
 
-**📊 Data & Analytics**
+## ⚡ TECH STACK
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
+</div>
+
+<div align="center">
+
+**Data & Analytics**
+<img src="https://skillicons.dev/icons?i=python,postgres&theme=dark"/>
 ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
 
-**☁️ Cloud & AI**
-
+**AI & Cloud**
 ![AWS](https://img.shields.io/badge/AWS-FF9900?style=flat-square&logo=amazonaws&logoColor=black)
 ![Claude](https://img.shields.io/badge/Claude_Code-D97757?style=flat-square&logo=anthropic&logoColor=white)
 ![GPT](https://img.shields.io/badge/GPT-412991?style=flat-square&logo=openai&logoColor=white)
 
-**🌐 Full-Stack Web**
+**Full-Stack**
+<img src="https://skillicons.dev/icons?i=nextjs,react,nodejs,express,mongodb,tailwind&theme=dark"/>
 
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
+**Backend & Tools**
+<img src="https://skillicons.dev/icons?i=java,spring,cpp,docker,git,vscode&theme=dark"/>
 
-**🔧 Languages, Backend & Tools**
-
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
-
----
-
-## 💼 Experience
-
-**Data Analyst Intern — AltiusTech Health**
-Worked hands-on with real healthcare data — cleaning, analysis, and reporting to support business decisions.
-
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=krishaygahlaut&theme=github-dark-blue&hide_border=true&background=0d1117&ring=58a6ff&fire=ff7b72&currStreakLabel=58a6ff&sideLabels=8b949e" width="100%"/>
-</div>
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=krishaygahlaut&theme=github-compact&hide_border=true&bg_color=0d1117&color=58a6ff&line=bc8cff&point=58a6ff" width="100%"/>
 </div>
 
 ---
 
-## 🐍 Contribution Snake
-
 <div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/krishaygahlaut/krishaygahlaut/blob/output/github-snake-dark.svg"/>
-    <source media="(prefers-color-scheme: light)" srcset="https://github.com/krishaygahlaut/krishaygahlaut/blob/output/github-snake.svg"/>
-    <img alt="github-snake" src="https://github.com/krishaygahlaut/krishaygahlaut/blob/output/github-snake-dark.svg"/>
-  </picture>
+
+## 📡 LIVE ACTIVITY
+
+<img src="https://github-readme-streak-stats.herokuapp.com?user=krishaygahlaut&theme=radical&hide_border=true&background=0d0221&ring=FF0080&fire=00D4FF&currStreakLabel=00D4FF&sideLabels=7928CA" width="100%"/>
+
+<img src="https://github-readme-stats.vercel.app/api?username=krishaygahlaut&show_icons=true&theme=radical&hide_border=true&bg_color=0d0221&title_color=00D4FF&icon_color=FF0080&text_color=c9d1d9" width="49%"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=krishaygahlaut&layout=compact&theme=radical&hide_border=true&bg_color=0d0221&title_color=00D4FF&text_color=c9d1d9" width="49%"/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=krishaygahlaut&theme=redical&hide_border=true&bg_color=0d0221&color=00D4FF&line=FF0080&point=7928CA" width="100%"/>
+
+<img src="https://github-profile-trophy.vercel.app/?username=krishaygahlaut&theme=radical&no-frame=true&background=0d0221&column=7&margin-w=8" width="100%"/>
+
 </div>
 
 ---
 
-## 🎓 Certifications
+<div align="center">
+
+## 🐍 CONTRIBUTION SNAKE
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/krishaygahlaut/krishaygahlaut/blob/output/github-snake-dark.svg"/>
+  <source media="(prefers-color-scheme: light)" srcset="https://github.com/krishaygahlaut/krishaygahlaut/blob/output/github-snake.svg"/>
+  <img alt="github-snake" src="https://github.com/krishaygahlaut/krishaygahlaut/blob/output/github-snake-dark.svg" width="100%"/>
+</picture>
+
+</div>
+
+---
+
+<div align="center">
+
+## 🎓 CERTIFICATIONS
 
 | Badge | Certification | Issuer | Valid |
-|-------|--------------|--------|-------|
-| ☁️ | AWS Certified Cloud Practitioner | Amazon Web Services | 2026–2029 |
-| 🤖 | AWS Certified AI Practitioner | Amazon Web Services | 2026–2029 |
-| 🌐 | Full Stack Web Development Bootcamp | Udemy | 2025 |
+|---|---|---|---|
+| ☁️ | AWS Cloud Practitioner | Amazon Web Services | 2026–2029 |
+| 🤖 | AWS AI Practitioner | Amazon Web Services | 2026–2029 |
+| 🌐 | Full Stack Web Dev Bootcamp | Udemy | 2025 |
 | 🧩 | Mastering DSA with C & C++ | Udemy | 2025 |
 | ☕ | Programming in Java | NPTEL | 2025 |
 | 🧠 | Deep Learning Onramp | MathWorks | 2025 |
-| 📱 | iOS & Swift — Complete App Development Bootcamp | Udemy | 2025 |
+| 📱 | iOS & Swift Bootcamp | Udemy | 2025 |
+
+</div>
 
 ---
 
-## 🤝 Connect With Me
-
 <div align="center">
-  <a href="https://linkedin.com/in/krishaygahlaut">
-    <img src="https://img.shields.io/badge/LinkedIn-Let's_Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  &nbsp;
-  <a href="mailto:kg3636@srmist.edu.in">
-    <img src="https://img.shields.io/badge/Email-Drop_a_Mail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-  &nbsp;
-  <a href="https://krishaygahlaut.vercel.app">
-    <img src="https://img.shields.io/badge/Portfolio-See_My_Work-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
-  </a>
-</div>
 
-<br/>
+### 📶 END TRANSMISSION
 
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%"/>
+<a href="https://linkedin.com/in/krishaygahlaut"><img src="https://img.shields.io/badge/LET'S_BUILD_SOMETHING-000000?style=for-the-badge&logo=linkedin&logoColor=00D4FF"/></a>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00D4FF,50:7928CA,100:FF0080&height=120&section=footer" width="100%"/>
+
 </div>
