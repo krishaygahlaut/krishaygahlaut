@@ -2,8 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF0080,50:7928CA,100:00D4FF&height=220&section=header&text=KRISHAY%20GAHLAUT&fontSize=60&fontColor=fff&animation=twinkling&fontAlignY=38&desc=Data%20%2F%20Business%20Analyst%20%C2%B7%20Software%20Engineer%20%C2%B7%20Builds%20with%20AI&descAlignY=58&descSize=17&fontAlign=50" width="100%"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=2500&pause=800&color=00D4FF&center=true&vCenter=true&multiline=true&repeat=true&width=800&height=100&lines=%3E+finding+%2485K%2Fyear+hiding+in+churn+data;%3E+shipping+full-stack+like+it%27s+nothing;%3E+claude+code+%2B+gpt+%3D+velocity;%3E+data.decisions.impact()"
-  />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=2500&pause=800&color=00D4FF&center=true&vCenter=true&multiline=true&repeat=true&width=800&height=100&lines=%3E+finding+%2485K%2Fyear+hiding+in+churn+data;%3E+shipping+full-stack+like+it%27s+nothing;%3E+claude+code+%2B+gpt+%3D+velocity;%3E+data.decisions.impact()" />
 
 <br/>
 
@@ -248,14 +247,12 @@ Loan and investment platform, full stack.
 
 ## 📡 LIVE ACTIVITY
 
-<img src="https://github-readme-streak-stats.herokuapp.com?user=krishaygahlaut&theme=radical&hide_border=true&background=0d0221&ring=FF0080&fire=00D4FF&currStreakLabel=00D4FF&sideLabels=7928CA" width="100%"/>
+<img src="https://streak-stats.demolab.com?user=krishaygahlaut&theme=radical&hide_border=true&background=0d0221&ring=FF0080&fire=00D4FF&currStreakLabel=00D4FF&sideLabels=7928CA" width="100%"/>
 
 <img src="https://github-readme-stats.vercel.app/api?username=krishaygahlaut&show_icons=true&theme=radical&hide_border=true&bg_color=0d0221&title_color=00D4FF&icon_color=FF0080&text_color=c9d1d9" width="49%"/>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=krishaygahlaut&layout=compact&theme=radical&hide_border=true&bg_color=0d0221&title_color=00D4FF&text_color=c9d1d9" width="49%"/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=krishaygahlaut&theme=redical&hide_border=true&bg_color=0d0221&color=00D4FF&line=FF0080&point=7928CA" width="100%"/>
-
-<img src="https://github-profile-trophy.vercel.app/?username=krishaygahlaut&theme=radical&no-frame=true&background=0d0221&column=7&margin-w=8" width="100%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=krishaygahlaut&theme=react-dark&hide_border=true&bg_color=0d0221&color=00D4FF&line=FF0080&point=7928CA" width="100%"/>
 
 </div>
 
