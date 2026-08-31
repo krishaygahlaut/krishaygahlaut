@@ -2,7 +2,8 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF0080,50:7928CA,100:00D4FF&height=220&section=header&text=KRISHAY%20GAHLAUT&fontSize=60&fontColor=fff&animation=twinkling&fontAlignY=38&desc=Data%20%2F%20Business%20Analyst%20%C2%B7%20Software%20Engineer%20%C2%B7%20Builds%20with%20AI&descAlignY=58&descSize=17&fontAlign=50" width="100%"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=2500&pause=800&color=00D4FF&center=true&vCenter=true&multiline=true&repeat=true&width=800&height=100&lines=%3E+finding+%2485K%2Fyear+hiding+in+churn+data;%3E+shipping+full-stack+like+it%27s+nothing;%3E+claude+code+%2B+gpt+%3D+velocity;%3E+data.decisions.impact()" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=2500&pause=800&color=00D4FF&center=true&vCenter=true&multiline=true&repeat=true&width=800&height=100&lines=%3E+finding+%2485K%2Fyear+hiding+in+churn+data;%3E+shipping+full-stack+like+it%27s+nothing;%3E+claude+code+%2B+gpt+%3D+velocity;%3E+data.decisions.impact()"
+  />
 
 <br/>
 
